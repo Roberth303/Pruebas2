@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class Prueba {
     public static void main(String args[]) {
         Scanner lector = new Scanner(System.in);
@@ -45,4 +45,4 @@ public class Prueba {
         System.out.println("La cantidad a devolver son de "+sinDecimal+" monedas de 2 euros y "+extractorDecimal+" monedas de 1 euro");
         System.out.println("Con "+cent50+" monedas de 50 cent, "+cent20+" monedas de 20cent, "+cent10+" monedas de 10cent, "+cent5+" monedas de 5cent, "+cent2+" monedas de 2cent y "+cent1+" monedas de 1cent");      
     }
-}
+}*/

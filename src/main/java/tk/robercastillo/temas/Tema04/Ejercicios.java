@@ -1,4 +1,4 @@
-public class Ejercicios {
+/*public class Ejercicios {
     public class Ejercicios() {
 
     }
@@ -6,4 +6,4 @@ public class Ejercicios {
         System.out.println("hola");
     }
 
-}
+}*/
