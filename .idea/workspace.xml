@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8084f142-f35a-415f-a72a-cf22a8fd4714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio06/Ejercicio06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio07/Ejercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio08/Ejercicio08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tk/robercastillo/temas/Tema09/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/tk/robercastillo/temas/Tema09/Principal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Principal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Principal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            <state relative-caret-position="225">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,17 +37,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio06/Ejercicio06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="300">
               <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio07/Ejercicio07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+            <state relative-caret-position="135">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio08/Ejercicio08.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -77,8 +84,9 @@
         <option value="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio02/Ejercicio02.java" />
         <option value="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio03/Ejercicio03.java" />
         <option value="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio06/Ejercicio06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Principal.java" />
         <option value="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio07/Ejercicio07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Principal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio08/Ejercicio08.java" />
       </list>
     </option>
   </component>
@@ -157,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549297935014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549299440728" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
@@ -210,12 +218,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548953487043</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio 06 y 07">
+      <created>1549297915847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549297915847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -226,7 +240,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -249,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prueba" />
+    <MESSAGE value="Ejercicio 06 y 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 06 y 07" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio01/Principal.java" />
@@ -314,27 +329,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio06/Ejercicio06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Principal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="225">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio06/Ejercicio06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio07/Ejercicio07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tk/robercastillo/temas/Tema09/Ejercicio08/Ejercicio08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
