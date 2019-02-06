@@ -8,21 +8,27 @@ public class Ejercicio08 {
         try {
             for (int i=0;i<=cadena.length;i++) {
                 try {
-                    System.out.println((String)null);
-                    System.out.println(cadena[i]);
+                    System.out.println(cadena[i].charAt(0));
                 }catch (NullPointerException nu) {
-                    System.out.println("El Error "+nu.getMessage()+" ha sido tratadox");
+                    System.out.println("El Error:");
+                    nu.printStackTrace();
+                    System.out.println("ha sido tratado");
                 }
 
             }
         }catch (IndexOutOfBoundsException io) {
-            System.out.println("El Error "+io.getMessage()+" ha sido tratadoy");
+            System.out.println("El Error:");
+            io.printStackTrace();
+            System.out.println("ha sido tratado");
         }
         try {
             System.out.println(x+" / "+y+" = "+(x/y));
         }catch (ArithmeticException ae) {
             System.out.println("No se puede dividir "+x+" entre "+y);
-            System.out.println("El Error "+ae.getMessage()+" ha sido tratadoz");
+            System.out.println("El Error:");
+            ae.printStackTrace();
+            System.out.println("ha sido tratado");
+
         }
     }
 }
