@@ -17,7 +17,5 @@ public class Principal {
         //Ejercicio08 c8 = new Ejercicio08();
         Ejercicio09 c9 = new Ejercicio09();
     }
-    public Exepcion(String msg) {
 
-    }
 }
