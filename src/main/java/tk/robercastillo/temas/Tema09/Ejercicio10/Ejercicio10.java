@@ -235,9 +235,11 @@ public class Ejercicio10 {
     }
     public int aleatorio(int min, int max) {
         int eleccion;
+        int devolver = 0;
         eleccion=rnd.nextInt(1);
         if (eleccion==0) {
-            return rnd.nextInt()
+            devolver = rnd.nextInt();
         }
+        return devolver;
     }
 }
